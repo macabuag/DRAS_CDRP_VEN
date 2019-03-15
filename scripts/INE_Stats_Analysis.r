@@ -4,7 +4,7 @@
 # Description: This script analyses data by Venezuela's Instituto Nacional de Estadistica de Venezuela
 # Naming Convention: 
 #              variables: lowerCamelCase
-#              datasets: UpperCamelCase
+#              datasets: UpperCamelCase 
 
 ## 1.0 SET-UP ################################################################################################################
 ## Timer ##
