@@ -1,2 +1,5 @@
-# DRAS_CDRP_VENA line I wrote on my local computer
-\nAnother line to test login credentials
+# DRAS_CDRP_VEN
+A line I wrote on my local computer
+Another line to test login credentials
+
+And another written from RStudio
